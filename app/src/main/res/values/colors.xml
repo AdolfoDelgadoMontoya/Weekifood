@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--https://imagecolorfinder.com/-->
+    <color name="sangored">#FB684F</color>
+    <color name="coffeecream">#FFF4D8</color>
+    <color name="cinnamonspice">#916242</color>
+    <color name="shrimpcocktail">#f1a25c</color>
+    <color name="furiousred">#ff1802</color>
+</resources>

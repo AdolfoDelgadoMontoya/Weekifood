@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "96792050396",
+    "firebase_url": "https://weeki-food-default-rtdb.firebaseio.com",
+    "project_id": "weeki-food",
+    "storage_bucket": "weeki-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96792050396:android:8c7885f1252c7029c0d219",
+        "android_client_info": {
+          "package_name": "com.example.weekifood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydiHAVpFTcLNsnNPM-Ev7ceOBb8OGyZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

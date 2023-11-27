@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/coffeecream">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:id="@+id/linearlayout"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:padding="30dp"
+            android:src="@drawable/weekokifoologo"
+            android:id="@+id/logoimagen"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Comenza y prueba algo nuevo"
+            android:textAlignment="center"
+            android:textColor="@color/sangored"
+            android:textStyle="bold"
+            android:textSize="23sp"
+            />
+        <TextView
+            android:layout_marginTop="75dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="¿Ya tienes una cuenta?"
+            android:textAlignment="center"
+            android:textColor="@color/cinnamonspice"
+            android:textStyle="bold"
+            android:textSize="23sp"
+            />
+        <Button
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:text="Iniciar sesiòn"
+            android:textSize="23sp"
+            android:id="@+id/accessBtnInicioDeSesion"
+            />
+        <TextView
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="¿No tienes una cuenta?"
+            android:textAlignment="center"
+            android:textColor="@color/cinnamonspice"
+            android:textStyle="bold"
+            android:textSize="23sp"
+            />
+
+        <Button
+            android:id="@+id/accessBtnRegistrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:text="Registrame"
+            android:textColor="@color/white"
+            android:textSize="23sp" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
