@@ -17,13 +17,13 @@
             android:layout_width="match_parent"
             android:layout_height="300dp"
             android:padding="30dp"
-            android:src="@drawable/weekokifoologo"
+            android:src="@drawable/weekifoologo"
             android:id="@+id/logoimagen"
             />
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Comenza y prueba algo nuevo"
+            android:text="Comienza y prueba algo nuevo"
             android:textAlignment="center"
             android:textColor="@color/sangored"
             android:textStyle="bold"
